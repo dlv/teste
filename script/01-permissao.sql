@@ -1,0 +1,3 @@
+GRANT ALL PRIVILEGES ON app.* TO 'root'@'%';
+
+FLUSH PRIVILEGES;
